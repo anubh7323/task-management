@@ -2,7 +2,17 @@
 
 A robust, full-stack task management application built with a modern tech stack. This application allows users to register, login, and manage their daily tasks with features like searching, filtering, and pagination.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Task+Management+System)
+![Dashboard](assets/dashboard-tasks.png)
+
+## 📸 Screenshots
+
+| Login Page | Register Page |
+|:---:|:---:|
+| ![Login](assets/login.png) | ![Register](assets/register.png) |
+
+| Dashboard (Empty) | New Task Modal |
+|:---:|:---:|
+| ![Dashboard Empty](assets/dashboard-empty.png) | ![New Task](assets/new-task.png) |
 
 ## 🚀 specialized Tech Stack
 
